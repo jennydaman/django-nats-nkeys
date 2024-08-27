@@ -22,7 +22,7 @@ Quick start
             ...
             "organizations",
             "django_extensions",
-            "django_nats_nkey",
+            "django_nats_nkeys",
         ]
 
 3.  Run `python manage.py migrate` to create the NATS organizationals
