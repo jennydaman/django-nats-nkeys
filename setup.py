@@ -30,7 +30,7 @@ setup(
     long_description_content_type="text/markdown",
     license="GNU AGPLv3",
     keywords="django NATS",
-    url="http://github.com/bitsy-ai/django-nats-nkey",
+    url="https://github.com/bitsy-ai/django-nats-nkeys",
     classifiers=[
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
