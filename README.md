@@ -28,7 +28,7 @@ Quick start
 3.  Run `python manage.py migrate` to create the NATS organizationals
     models
 
-4.  Run `python manage.py nsc-init` (optional) Initialize a new NATS
+4.  Run `python manage.py nsc_init` (optional) Initialize a new NATS
     operator. You are responsible for copying the generated
     `.conf` file to your NATS server. If you choose to use
     an existing operator, you are responsible for running `nsc pull` as a pre-deployment step.
